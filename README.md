@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Angelo
 
-## About Me
+#### About Me
 
 - 📚 Currently studying for a CS degree at UniBo
 - 👨‍💻 I’m currently working on a lot stuff
