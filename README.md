@@ -2,7 +2,7 @@
 
 #### About Me
 
-- 📚 Currently studying for a CS degree at UniBo
+- 📚 I'm currently studying for a CS degree at UniBo
 - 👨‍💻 I’m currently working on a lot stuff
 - 🌱 I’m currently learning how to center a div
 - 💭 I'm interested in web3.0, CG, Cellular Automata and ML 
