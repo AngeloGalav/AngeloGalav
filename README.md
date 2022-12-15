@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Angelo
 
 #### About Me
-- 📚 I'm currently studying for a CS degree at UniBo
-- 👨‍💻 I’m currently working on a lot stuff
-- 🌱 I’m currently learning how to center a div
-- 💭 I'm interested in Procedural Generation, ML and Cybersecurity. 
+- 📚 I'm currently studying for a Master degree in Artificial Intelligence @ UniBo
+- 👨‍💻 I’m currently working on a lot of stuff
+- 🌱 I’m currently learning how to manage my time effectively
+- 💭 I'm interested in Procedural Generation, AI, Computer Graphics and sometimes Cybersecurity. 
 
 #### What you will find on this page
 - Most of the projects I'm currently working on, and their code.
