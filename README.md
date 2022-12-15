@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Angelo
 
 #### About Me
-- 📚 I'm currently studying for a Master degree in Artificial Intelligence @ UniBo
+- 📚 I'm currently studying for a Master's degree in Artificial Intelligence @ UniBo
 - 👨‍💻 I’m currently working on a lot of stuff
 - 🌱 I’m currently learning how to manage my time effectively
 - 💭 I'm interested in Procedural Generation, AI, Computer Graphics and sometimes Cybersecurity. 
