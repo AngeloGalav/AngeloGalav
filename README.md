@@ -12,7 +12,7 @@
 
 #### What you won't find on this page
 - My Unity projects, such as games or experiments with procedural generation. 
-  - I've published some of them at [gamejolt](https://gamejolt.com/@unforeseen_creations) and [itch.io](https://unforeseen-creations.itch.io/). 
+  - I've published some of them on [gamejolt](https://gamejolt.com/@unforeseen_creations) and [itch.io](https://unforeseen-creations.itch.io/). 
 - My procedural artworks. You can find them on [instagram](https://www.instagram.com/unforeseen_creations/). 
   - It's been a looong time since I've posted there tho...  
 
