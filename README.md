@@ -1,4 +1,5 @@
 ### Hi there 👋, I'm Angelo
+And welcome to my GitHub page!
 
 #### About Me
 - 📚 I'm currently studying for a Master's degree in Artificial Intelligence @ UniBo (which consumes 80% of my time)
@@ -17,3 +18,4 @@
   - It's been a looong time since I've posted there tho...  
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AngeloGalav&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
+![](https://komarev.com/ghpvc/?username=AngeloGalav)
