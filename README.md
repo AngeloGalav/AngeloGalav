@@ -9,7 +9,7 @@ And welcome to my GitHub page!
 
 #### What you will find on this page
 - Most of the projects I'm currently working on, and their code.
-- Many of my university notes and much of my studying material, which I consider part of my knowledge. 
+- Many of my university notes and studying material, as I believe knowledge should be available to everyone. 
 
 #### What you won't find on this page
 - My Unity projects, such as games or experiments with procedural generation. 
