@@ -1,11 +1,12 @@
 ### Hi there 👋, I'm Angelo
-And welcome to my GitHub page!
+And welcome to my GitHub profile!
 
 #### About Me
-- 📚 I'm currently studying for a Master's degree in Artificial Intelligence @ UniBo (which consumes 80% of my time)
-- 👨‍💻 I’m currently working on a lot of stuff
-- 🌱 I’m currently learning how to manage my time effectively
-- 💭 I'm interested in Procedural Generation, AI, Computer Graphics and sometimes Cybersecurity. 
+- 🎓 I've obtained a BSc in Computer Science and a MSc in Artificial Intelligence, both at @ UniBo, and both with the maximum grade (110/110 with honours).
+- 📚 I'm currently actively looking for a job, specifically for roles in AI Sofware Engineering.
+- 👨‍💻 In the meantime, I’m working on a lot of very different side projects. Let's see what works out...
+- 💭 I'm interested in edge AI, Procedural Generation, Computer Graphics, VR and, in general, close-to-the-hardware development. 
+- 😊 If you have questions on my projects, have an interesting idea/proposal, or just want to chat, please send me an email!
 
 #### What you will find on this page
 - Most of the projects I'm currently working on, and their code.
