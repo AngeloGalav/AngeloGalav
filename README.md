@@ -18,5 +18,4 @@ And welcome to my GitHub profile!
 - My procedural artworks. You can find them on [instagram](https://www.instagram.com/unforeseen_creations/). 
   - It's been a looong time since I've posted there tho...  
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AngeloGalav&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
 <img src="https://komarev.com/ghpvc/?username=AngeloGalav&style=plastic">
