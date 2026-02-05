@@ -5,7 +5,7 @@ And welcome to my GitHub profile!
 - 🎓 I've obtained a BSc in Computer Science and a MSc in Artificial Intelligence, both at @ UniBo, and both with the maximum grade (110/110 with honours).
 - 📚 I'm currently actively looking for a job, specifically for roles in AI Engineering and Sofware Engineering.
 - 👨‍💻 In the meantime, I’m working on a lot of very different side projects. Let's see what works out...
-- 💭 I'm interested in edge AI, Procedural Generation, Computer Graphics, VR and, in general, close-to-the-hardware development. 
+- 💭 I'm interested in local/edge AI, Procedural Generation, Computer Graphics, VR and, in general, close-to-the-hardware development. 
 - 😊 If you have questions on my projects, have an interesting idea/proposal, or just want to chat, please send me an email!
 
 #### What you will find on this page
